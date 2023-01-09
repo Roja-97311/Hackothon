@@ -1,0 +1,4 @@
+﻿-----------------------Welcome to Medical Research App------------------------------
+Add Disease -------Press One
+Add Symtoms--------Press Two
+Check dieses-------press Three
